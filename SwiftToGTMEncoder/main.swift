@@ -4,7 +4,7 @@
 //  SwiftToGTMEncoder
 //
 //  Created by Jacob Henning Rothschild on 30/06/2016.
-//  Copyright © 2016 Heleria. All rights reserved.
+//  Copyright © 2016 Jacob Henning Rothschild. All rights reserved.
 //
 
 import Foundation
