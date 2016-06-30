@@ -1,4 +1,4 @@
-# Dictionary Migrator
+# SwiftToGTMEncoder
 
 ## What it does
 
