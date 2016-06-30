@@ -11,7 +11,7 @@ This tool converts Swift constants of the following types into GTM-supported JSO
  - UIColor
  - All primitives
 
-This tool is meant to convert these constants into JSON-values that can easily be decoded into Swift-values by 'https://github.com/Heleria/GTMReader'. 
+This tool is meant to convert these constants into JSON-values that can easily be decoded into Swift-values by https://github.com/Heleria/GTMReader. 
 
 ## Installation
 
